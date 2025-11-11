@@ -156,12 +156,8 @@ curl -X POST http://localhost:8080/api/users/createUser \
 - Entity: `src/main/java/com/example/springbootPostgresql/entity/UserEntity.java`
 - Repo: `src/main/java/com/example/springbootPostgresql/repository/UserRepository.java`
 
-## License 📜
-
-No license file included. Add `LICENSE` if needed.
-
 ---
 
 ## Quick conclusion ✨
 
-Short and friendly: run the app, try the endpoints, and iterate. Want a Postgres `docker-compose` or a tiny integration test next? I can add it. Happy coding! 🚀
+Short and friendly: run the app, helped me a lot to know and practice about Spring Boot.. Happy coding! 🚀
