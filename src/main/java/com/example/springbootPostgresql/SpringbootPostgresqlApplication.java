@@ -9,7 +9,7 @@ public class SpringbootPostgresqlApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootPostgresqlApplication.class, args);
 
-		System.out.println("Hello, World!");
+		System.out.println("server running on PORT 5000");
 	}
 
 }

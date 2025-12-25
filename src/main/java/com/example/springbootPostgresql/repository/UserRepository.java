@@ -10,5 +10,6 @@ import com.example.springbootPostgresql.entity.UserEntity;
 
 
 public interface UserRepository extends JpaRepository<UserEntity, Long> {
+    //now can user save, findAll, findById, deleteById etc methods directly in my code ..
 
 }
